@@ -1,2 +1,9 @@
-matplotlib
 pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+sqlite3-binary
+requests
+beautifulsoup4
+lxml

@@ -7,3 +7,4 @@ sqlite3-binary
 requests
 beautifulsoup4
 lxml
+statsmodels
